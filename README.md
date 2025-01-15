@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Akif Emre Sula.
 - 👀 I’m interested in Computer Science and Programming.
+- 💻 I’m currently working on C# and ASP.NET.
 - 🌱 I’m currently learning Machine Learning.
 - 📫 How to reach me : akifsula@gmail.com
 - 🌐 My own personal website : http://akifemresula.lovestoblog.com

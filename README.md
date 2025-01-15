@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Akif Emre Sula.
+- 👀 I’m interested in Computer Science and Programming.
+- 🌱 I’m currently learning Machine Learning.
+- 📫 How to reach me : akifsula@gmail.com
